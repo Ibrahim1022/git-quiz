@@ -1,5 +1,5 @@
 
- Question....
+ Question........
   1.What is a repository?
   2.What is the Git command to make a copy of a repo to your laptop?
   3.What is the Git command to send your code to Github?
