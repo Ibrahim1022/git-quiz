@@ -1,0 +1,19 @@
+
+ Question....
+  1.What is a repository?
+  2.What is the Git command to make a copy of a repo to your laptop?
+  3.What is the Git command to send your code to Github?
+  4.What does the -m in a Git commit command mean or do?
+  5.What is the Git command for making a commit?
+  6.What is the Git command to put your files in the staging area?
+  7.What does origin stand for when pushing you code?
+ Answers.
+
+  1.A repository, often shortened to "repo," is a central location where data is stored and managed.
+  2.git clone
+  3.git push
+  4.The -m option in a Git commit command stands for "message."It allows you to include a brief description of the changes you're committing directly in the command line. 
+  5.git commit -m 
+  6.git add .
+  7.In Git, "origin" is a default alias given to the remote repository from which the local repository was initially cloned.
+
