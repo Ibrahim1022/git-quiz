@@ -7,7 +7,7 @@
   5.What is the Git command for making a commit?
   6.What is the Git command to put your files in the staging area?
   7.What does origin stand for when pushing you code?
- Answers.
+ Answers......
 
   1.A repository, often shortened to "repo," is a central location where data is stored and managed.
   2.git clone
